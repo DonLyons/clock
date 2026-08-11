@@ -1,0 +1,13 @@
+*.class
+
+*.log
+
+*.jar
+*.war
+
+target/
+build/
+.gradle/
+
+./vscode
+
