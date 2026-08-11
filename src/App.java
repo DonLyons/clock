@@ -22,10 +22,13 @@ public class App {
         switch (choice) {
             case 1:
                 // Call clock
+                break;
             case 2:
                 stopwatch();
+                break;
             case 3:
                 timer();
+                break;
         }
 
         scanner.close();
